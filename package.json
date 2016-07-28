@@ -1,0 +1,23 @@
+{
+  "name": "facebook-twitter-authentication-hapi-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bell": "^8.0.0",
+    "boom": "^3.2.2",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.5.0",
+    "hapi-auth-jwt2": "^7.0.1",
+    "inert": "^4.0.1",
+    "jsonwebtoken": "^7.1.6",
+    "redis-connection": "^5.0.0",
+    "vision": "^4.1.0"
+  }
+}
