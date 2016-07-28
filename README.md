@@ -8,7 +8,7 @@ Create new json file called ```development.json``` in ```config``` folder and pa
 ```json
 {
 	"host": "http://localhost:3000",
-	"secret": "catscanfly",
+	"secret": "encrypted_at_least_32_character_password",
 	"fb": {
 		"clientID": "<Facebook client id>",
 		"clientSecret": "<Facebook client secret>",
